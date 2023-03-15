@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
       title: 'Weather',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        scaffoldBackgroundColor: Color(0xff081b25),
+        scaffoldBackgroundColor: Color(4281087545),
       ),
       home: MyHomePage(),
     );
