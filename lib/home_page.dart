@@ -48,11 +48,11 @@ class MyHomePage extends StatelessWidget {
                       Text(
                         '${data?.cityName}',
                         style: TextStyle(color:Colors.white.withOpacity(0.9),
-                            fontSize: 40,
+                            fontSize: 55,
                             fontFamily: 'Kanit'),
                       ),
                       SizedBox(
-                        height: 20,
+                        height: 10,
                       ),
                       Text(
                         dateFormat,
